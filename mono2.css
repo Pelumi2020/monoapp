@@ -1,0 +1,142 @@
+body{
+    margin:0px;
+    padding:0px;
+    background: black;
+}
+.container{
+    background: white;
+    height: 700px;
+    display: flex;
+}
+
+.container1{
+    width:30%;
+    background: whitesmoke;
+    margin:0px;
+    
+}
+.container1>div{
+    margin: 40px 25px;
+}
+.container2{
+    width: 50%;
+    background: white;
+    margin-left: 300px;
+}
+h2{
+    margin-left: 30px;
+}
+.smallcon{
+    margin-left: 25px;
+}
+
+.smallcon2{
+    margin-left: 25px;
+}
+.smallcon2 h4{
+    margin: 0px;
+}
+.smallcon2 p{
+    margin: 7px 0px;
+}
+.smallcon3{
+    margin-left: 25px;
+}
+.smallcon3 h3{
+    margin: 0px;
+}
+.smallcon3 p{
+    margin:7px 0px ;
+}
+.smallcon4{
+    margin-left: 25px;
+}
+.smallcon4 h3{
+    margin: 0px;
+}
+.smallcon4 p{
+    margin:7px 0px ;
+}
+
+form h1{
+    margin-left: 20px;
+}
+
+ .form-group{
+    display: flex;
+    width: 150px;
+    outline: none;
+}
+.form-group input{
+    padding: 20px;
+    margin: 0px 6px;
+    background:white ;
+    border:2px solid whitesmoke;
+    border-radius: 7px;
+    box-shadow:1px red;
+    outline: none;
+}
+.form-group input:hover{
+    background: lightblue;
+    width:150px 0px;
+}
+.form input{
+    width:390px;
+    margin: 0px;
+    padding: 20px;
+    border-radius: 7px;
+    background: white;
+    border:2px solid whitesmoke;
+}
+.form input:hover{
+    background: lightblue;
+    width: 380px;
+}
+.form1 input, .form1 select{
+    width:450px;
+    margin: 10px 0px;
+    padding: 20px;
+    border-radius: 7px;
+    background: white;
+    border: 2px solid whitesmoke;
+    outline: none;
+}
+.form1 input:hover{
+    background: lightblue;
+    width: 400px;
+    
+}
+.form2 input{
+    width:400px;
+    margin: 10px 0px;
+    padding: 20px;
+    border-radius: 7px;
+    background: white;
+    border: 2px solid whitesmoke;
+    outline: none;
+}
+.form2 input:hover{
+    background: lightblue;
+    width: 400px;
+    
+}
+
+form button{
+    padding: 15px;
+    width:440px;
+    border:0px;
+    border-radius: 10px;
+    background: blue;
+    color: white;
+    margin: 18px 0px;
+}
+p span{
+    color:blue;
+}
+.Lastword {
+    margin-left:130px;
+}
+.k{
+    margin: 0px;
+    padding: 0px;
+}

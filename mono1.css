@@ -1,0 +1,45 @@
+body{
+    background: black;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    min-height: 100vh;
+}
+
+form{
+    margin: auto;
+    width:30%;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    height:500px;
+}
+h1{
+    padding-top: 40px;
+}
+h3{
+    margin-top: 50px;
+}
+h3  span{
+    color: blue;
+}
+h3 span a{
+    text-decoration: none;
+}
+input{
+    width:60%;
+    padding: 15px;
+    border: 0.5px solid rgb(109, 106, 106);
+    border-radius:5px ;
+    outline: none;
+    margin-top: 20px;
+}
+button{
+    width: 68%;
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border:none;
+    margin: 10px;
+}
